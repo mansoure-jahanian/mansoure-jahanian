@@ -10,7 +10,7 @@ I enjoy collaboration, challenging projects, and learning opportunities that wil
 
 ### Programming languages I use:
 
-![Python](https://img.shields.io/badge/Python-%23013243.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23013243.svg?style=for-the-badge&logo=Python&logoColor=white)(https://www.python.org/)
 ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/matlab-%23FF5200.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
