@@ -2,7 +2,7 @@
 
 I’m currently a research intern at Vector Institute for AI, and I'm passionate about applying machine learning techniques to tackle real-world challenges.
 
-Over my journey in the field of AI, I have developed strong analytical, problem-solving, and project-management skills and I have gained proficiency in Python programming. 
+Over my journey in the field of AI, I have developed strong analytical, problem-solving, and project-management skills and I have gained proficiency in machine learning algorithms and Python programming. 
 
 I enjoy collaboration, challenging projects, and learning opportunities that will push my boundaries and allow me to grow as a professional.
 
